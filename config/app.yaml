@@ -1,0 +1,8 @@
+env: "development"
+
+service:
+  baseUrl: "https://jsonplaceholder.typicode.com/todos/1"
+
+timeouts:
+  connectsMs: 1000
+  readsMs: 3000
